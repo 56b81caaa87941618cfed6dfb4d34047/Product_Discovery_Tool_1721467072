@@ -207,5 +207,24 @@
         "static": "false",
         "isDraggable": "true",
         "isResizable": "true"
+    },
+    "purple_header_component_1721467302.js": {
+        "id": "purple_header_component-28557c14-660c-4eee-a42a-3cb3dc279131",
+        "name": "purple_header_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 12,
+        "h": 8,
+        "x": "100",
+        "y": "10",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 12,
+        "moved": "false",
+        "static": "false",
+        "isDraggable": "true",
+        "isResizable": "true"
     }
 }
